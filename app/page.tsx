@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className={styles.center}>
         <strong style={{ fontSize: 64 }}>
-          Dibas Store - Versão Desenvolvedor
+          Dibas Store - Versão Homologação/Testes
         </strong>
       </div>
 
