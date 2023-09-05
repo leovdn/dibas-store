@@ -9,7 +9,9 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <strong style={{ fontSize: 64 }}>Dibas Store</strong>
+        <strong style={{ fontSize: 64 }}>
+          Dibas Store - Versão Desenvolvedor
+        </strong>
       </div>
 
       <div></div>

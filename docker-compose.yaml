@@ -1,3 +1,9 @@
 version: "0.1"
-services: 
-  
+services:
+  frontend:
+    build: './'
+    container_name: 'dibas-store_c'
+    ports:
+      - '3000:3000'
+    stdin_open: true
+    tty: true
